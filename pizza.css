@@ -1,0 +1,5 @@
+.ourmenu{ text-align: center; color:#ff511c; font-family: cursive; }
+.menu1 .menu-item1 img{ width: 250px; height: 250px; margin-top: 120px; margin-left: 90px;}
+.menu1 .menu-item1 p{ margin-left: 130px; font-weight: bold; }
+.menu1{ display: inline-flex; margin: 30px;}
+body{ background-color:antiquewhite;}
